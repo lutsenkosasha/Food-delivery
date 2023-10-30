@@ -34,3 +34,5 @@
     - удалять блюда;
     - посмотреть список имеющихся заказов.
 '''
+
+![Food-delivery](https://github.com/lutsenkosasha/Food-delivery/assets/128168000/811fc776-364d-4897-af4e-33616771215f)
