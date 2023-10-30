@@ -1,0 +1,10 @@
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\FoodDelivery.WebAPI\FoodDelivery.DataAccess\bin\Debug\FoodDelivery.DataAccess.dll
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\FoodDelivery.WebAPI\FoodDelivery.DataAccess\bin\Debug\FoodDelivery.DataAccess.pdb
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\FoodDelivery.WebAPI\FoodDelivery.DataAccess\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\FoodDelivery.WebAPI\FoodDelivery.DataAccess\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\FoodDelivery.WebAPI\FoodDelivery.DataAccess\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\FoodDelivery.WebAPI\FoodDelivery.DataAccess\obj\Debug\FoodDelivery.DataAccess.csproj.AssemblyReference.cache
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\FoodDelivery.WebAPI\FoodDelivery.DataAccess\obj\Debug\FoodDelivery.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\FoodDelivery.WebAPI\FoodDelivery.DataAccess\obj\Debug\FoodDelivery.DataAccess.csproj.CopyComplete
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\FoodDelivery.WebAPI\FoodDelivery.DataAccess\obj\Debug\FoodDelivery.DataAccess.dll
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\FoodDelivery.WebAPI\FoodDelivery.DataAccess\obj\Debug\FoodDelivery.DataAccess.pdb
