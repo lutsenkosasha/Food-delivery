@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\.github",
-    "\\FoodDelivery.BL",
-    "\\FoodDelivery.BL\\obj",
-    "\\FoodDelivery.DataAccess",
-    "\\FoodDelivery.Services",
-    "\\FoodDelivery.WebAPI"
+    ""
   ],
-  "SelectedNode": "\\FoodDelivery.BL\\obj",
+  "SelectedNode": "\\FoodDelivery.WebAPI.sln",
   "PreviewInSolutionExplorer": false
 }

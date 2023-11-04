@@ -1,0 +1,11 @@
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\bin\Debug\net7.0\FoodDelivery.BL.deps.json
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\bin\Debug\net7.0\FoodDelivery.BL.dll
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\bin\Debug\net7.0\FoodDelivery.BL.pdb
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\obj\Debug\net7.0\FoodDelivery.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\obj\Debug\net7.0\FoodDelivery.BL.AssemblyInfoInputs.cache
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\obj\Debug\net7.0\FoodDelivery.BL.AssemblyInfo.cs
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\obj\Debug\net7.0\FoodDelivery.BL.csproj.CoreCompileInputs.cache
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\obj\Debug\net7.0\FoodDelivery.BL.dll
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\obj\Debug\net7.0\refint\FoodDelivery.BL.dll
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\obj\Debug\net7.0\FoodDelivery.BL.pdb
+C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.BL\obj\Debug\net7.0\ref\FoodDelivery.BL.dll

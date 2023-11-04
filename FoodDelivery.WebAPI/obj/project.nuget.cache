@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TWkY04AY4faV0v6OJ4YfysR37u5uEUigQbNGr+ob2ystpFNEJeGvrOQD3/ONwKOREO7/QzG+Xjt7mElBsVbugw==",
+  "dgSpecHash": "SbghZ6NUuqLzQ8D6JuK8Wdw4Lf4CRr/ZAotlCQnQ/1FoI0jPGrJMXg61zfFJJ/XIMpRSM6mqGpffTvTKwPDXkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\FoodDelivery\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\26862\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\26862\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

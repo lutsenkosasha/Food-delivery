@@ -3,13 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery.WebAPI", "FoodDelivery.WebAPI\FoodDelivery.WebAPI.csproj", "{1B3E619E-ECC9-49D7-B334-149001A389C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodDelivery.WebAPI", "FoodDelivery.WebAPI\FoodDelivery.WebAPI.csproj", "{1B3E619E-ECC9-49D7-B334-149001A389C5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CFB3B254-BD6E-4E20-BCD7-D109FD34E710} = {CFB3B254-BD6E-4E20-BCD7-D109FD34E710}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery.Services", "FoodDelivery.Services\FoodDelivery.Services.csproj", "{77A39755-E500-403C-B48D-B15CDF03C18E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery.BL", "FoodDelivery.BL\FoodDelivery.BL.csproj", "{CFB3B254-BD6E-4E20-BCD7-D109FD34E710}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery.DataAccess", "FoodDelivery.DataAccess\FoodDelivery.DataAccess.csproj", "{7781CE98-2D3C-4871-9150-B8C0E4B060A1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery.BL", "FoodDelivery.BL\FoodDelivery.BL.csproj", "{17551C1F-0686-4D24-87E8-400FBB96BF12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery.DataAccess", "FoodDelivery.DataAccess\FoodDelivery.DataAccess.csproj", "{9A6CDBA2-D4F0-402A-B316-062AD0637364}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +22,14 @@ Global
 		{1B3E619E-ECC9-49D7-B334-149001A389C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B3E619E-ECC9-49D7-B334-149001A389C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B3E619E-ECC9-49D7-B334-149001A389C5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{77A39755-E500-403C-B48D-B15CDF03C18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77A39755-E500-403C-B48D-B15CDF03C18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77A39755-E500-403C-B48D-B15CDF03C18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77A39755-E500-403C-B48D-B15CDF03C18E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7781CE98-2D3C-4871-9150-B8C0E4B060A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7781CE98-2D3C-4871-9150-B8C0E4B060A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7781CE98-2D3C-4871-9150-B8C0E4B060A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7781CE98-2D3C-4871-9150-B8C0E4B060A1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{17551C1F-0686-4D24-87E8-400FBB96BF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17551C1F-0686-4D24-87E8-400FBB96BF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17551C1F-0686-4D24-87E8-400FBB96BF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17551C1F-0686-4D24-87E8-400FBB96BF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB3B254-BD6E-4E20-BCD7-D109FD34E710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB3B254-BD6E-4E20-BCD7-D109FD34E710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB3B254-BD6E-4E20-BCD7-D109FD34E710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB3B254-BD6E-4E20-BCD7-D109FD34E710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6CDBA2-D4F0-402A-B316-062AD0637364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6CDBA2-D4F0-402A-B316-062AD0637364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6CDBA2-D4F0-402A-B316-062AD0637364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6CDBA2-D4F0-402A-B316-062AD0637364}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

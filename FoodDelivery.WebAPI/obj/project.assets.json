@@ -652,15 +652,6 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
-      },
-      "FoodDelivery.BL/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/FoodDelivery.BL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/FoodDelivery.BL.dll": {}
-        }
       }
     }
   },
@@ -1807,16 +1798,10 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "FoodDelivery.BL/1.0.0": {
-      "type": "project",
-      "path": "../FoodDelivery.BL/FoodDelivery.BL.csproj",
-      "msbuildProject": "../FoodDelivery.BL/FoodDelivery.BL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "FoodDelivery.BL >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.13",
       "Serilog >= 3.0.1",
       "Serilog.AspNetCore >= 7.0.0",
@@ -1833,11 +1818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\FoodDelivery\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
       "projectName": "FoodDelivery.WebAPI",
-      "projectPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
+      "projectPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\FoodDelivery\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
       "packagesPath": "C:\\Users\\26862\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\FoodDelivery\\FoodDelivery.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1858,11 +1843,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.BL\\FoodDelivery.BL.csproj": {
-              "projectPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.BL\\FoodDelivery.BL.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -1923,7 +1904,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,32 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj": {}
+    "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\FoodDelivery\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.BL\\FoodDelivery.BL.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.BL\\FoodDelivery.BL.csproj",
-        "projectName": "FoodDelivery.BL",
-        "projectPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.BL\\FoodDelivery.BL.csproj",
-        "frameworks": {
-          "net472": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net472": {}
-      }
-    },
-    "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj": {
+    "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\FoodDelivery\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\FoodDelivery\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
         "projectName": "FoodDelivery.WebAPI",
-        "projectPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
+        "projectPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\FoodDelivery\\FoodDelivery.WebAPI\\FoodDelivery.WebAPI.csproj",
         "packagesPath": "C:\\Users\\26862\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\FoodDelivery\\FoodDelivery.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,11 +32,7 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.BL\\FoodDelivery.BL.csproj": {
-                "projectPath": "C:\\Users\\26862\\OneDrive\\Рабочий стол\\Universe\\3kurs_1sem\\MS.NET\\labs\\lab2\\2\\FoodDelivery.BL\\FoodDelivery.BL.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -112,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
