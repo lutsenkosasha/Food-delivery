@@ -1,7 +1,0 @@
-[16:29:17:324 INF ()] Now listening on: https://localhost:7093
-[16:29:17:350 INF ()] Now listening on: http://localhost:5293
-[16:29:17:352 INF ()] Application started. Press Ctrl+C to shut down.
-[16:29:17:353 INF ()] Hosting environment: Development
-[16:29:17:354 INF ()] Content root path: C:\Users\26862\OneDrive\Рабочий стол\Universe\3kurs_1sem\MS.NET\labs\lab2\2\FoodDelivery.WebAPI
-[16:29:18:105 INF (28717e37-9324-4932-a715-91690489eced)] HTTP GET /swagger/index.html responded 200 in 229.7847 ms
-[16:29:18:359 INF (5779afe9-6ae2-4824-95eb-e5fe884bfabd)] HTTP GET /swagger/v1/swagger.json responded 200 in 18.3276 ms
