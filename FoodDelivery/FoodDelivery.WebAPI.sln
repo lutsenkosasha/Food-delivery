@@ -8,9 +8,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodDelivery.WebAPI", "Food
 		{CFB3B254-BD6E-4E20-BCD7-D109FD34E710} = {CFB3B254-BD6E-4E20-BCD7-D109FD34E710}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery.BL", "FoodDelivery.BL\FoodDelivery.BL.csproj", "{CFB3B254-BD6E-4E20-BCD7-D109FD34E710}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodDelivery.BL", "FoodDelivery.BL\FoodDelivery.BL.csproj", "{CFB3B254-BD6E-4E20-BCD7-D109FD34E710}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9A6CDBA2-D4F0-402A-B316-062AD0637364} = {9A6CDBA2-D4F0-402A-B316-062AD0637364}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery.DataAccess", "FoodDelivery.DataAccess\FoodDelivery.DataAccess.csproj", "{9A6CDBA2-D4F0-402A-B316-062AD0637364}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodDelivery.DataAccess", "FoodDelivery.DataAccess\FoodDelivery.DataAccess.csproj", "{9A6CDBA2-D4F0-402A-B316-062AD0637364}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
