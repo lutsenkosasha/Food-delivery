@@ -12,6 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
+DbContextConfigurator.ConfigureService(builder.Services, settings);
 SerilogConfigurator.ConfigureService(builder);
 SwaggerConfigurator.ConfigureServices(builder.Services);
 

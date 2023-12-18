@@ -2,5 +2,6 @@
 {
     public class FoodDeliverySettings
     {
+        public string FoodDeliveryDbContextConnectionString { get; set; }
     }
 }

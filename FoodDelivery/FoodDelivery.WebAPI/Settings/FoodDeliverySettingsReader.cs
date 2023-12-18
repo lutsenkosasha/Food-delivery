@@ -4,8 +4,10 @@
     {
         public static FoodDeliverySettings Read(IConfiguration configuration)
         {
-
-            return new FoodDeliverySettings();
+            return new FoodDeliverySettings()
+            {
+                FoodDeliveryDbContextConnectionString = configuration.GetValue<string>("FoodDeliveryDbContext")
+            };
         }
     }
 }
