@@ -23,12 +23,6 @@ public class Repository<T> : IRepository<T> where T : BaseEntity
         return context.Set<T>().Where(filter).ToList();
     }
 
-    public IEnumerable<T> GetAll<TKey>(Expression<Func<T, TKey>> keySelector)
-    {
-        using var context = _contextFactory.CreateDbContext();
-        return context.Set<T>().OrderBy(keySelector).ToList();
-    }
-
     public T? GetById(int id)
     {
         using var context = _contextFactory.CreateDbContext();
