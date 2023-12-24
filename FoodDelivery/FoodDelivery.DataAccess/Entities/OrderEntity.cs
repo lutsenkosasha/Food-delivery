@@ -12,9 +12,6 @@ public class OrderEntity : BaseEntity
     public int UserID { get; set; }
     public UserEntity User { get; set; }
 
-    public int AdminID { get; set; }
-    public AdminEntity Admin { get; set; }
-
     public int DishInOrderID { get; set; }
     public DishInOrderEntity DishInOrder { get; set; }
 }

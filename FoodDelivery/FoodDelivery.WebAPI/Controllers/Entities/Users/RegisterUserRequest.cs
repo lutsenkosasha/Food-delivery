@@ -1,9 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿namespace FoodDelivery.WebAPI.Controllers.Entities.Users;
 
-namespace FoodDelivery.DataAccess.Entities;
-
-[Table("users")]
-public class UserEntity : BaseEntity
+public class RegisterUserRequest
 {
     public string FirstName { get; set; }
     public string LastName { get; set; }
@@ -11,14 +8,9 @@ public class UserEntity : BaseEntity
     public DateTime Birthday { get; set; }
     public string PhoneNumber { get; set; }
     public string Email { get; set; }
-    public string PasswordHash { get; set; }
+    public string Password { get; set; }
     public string Adress { get; set; }
     public string Avatar { get; set; }
 
     public int DeliveryId { get; set; }
-    public DeliveryEntity Delivery { get; set; }
-
-    public virtual ICollection<OrderEntity> Orders { get; set; }
-
-    // ctrl+k+d+r+g+s - форматирование
 }

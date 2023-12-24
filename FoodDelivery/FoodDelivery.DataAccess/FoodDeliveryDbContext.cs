@@ -21,9 +21,6 @@ public class FoodDeliveryDbContext : DbContext
         modelBuilder.Entity<UserEntity>().HasOne(x => x.Delivery)
             .WithMany(x => x.Users)
             .HasForeignKey(x => x.DeliveryId);
-        modelBuilder.Entity<UserEntity>().HasOne(x => x.Admin)
-            .WithMany(x => x.Users)
-            .HasForeignKey(x => x.AdminID);
 
         modelBuilder.Entity<DeliveryEntity>().HasKey(x => x.Id);
         modelBuilder.Entity<DeliveryEntity>().HasIndex(x => x.ExternalId).IsUnique();
@@ -33,9 +30,6 @@ public class FoodDeliveryDbContext : DbContext
 
         modelBuilder.Entity<DishEntity>().HasKey(x => x.Id);
         modelBuilder.Entity<DishEntity>().HasIndex(x => x.ExternalId).IsUnique();
-        modelBuilder.Entity<DishEntity>().HasOne(x => x.Admin)
-            .WithMany(x => x.Dishes)
-            .HasForeignKey(x => x.AdminID);
         modelBuilder.Entity<DishEntity>().HasOne(x => x.DishInOrder)
             .WithMany(x => x.Dishes)
             .HasForeignKey(x => x.DishInOrderID);
@@ -45,9 +39,6 @@ public class FoodDeliveryDbContext : DbContext
 
         modelBuilder.Entity<OrderEntity>().HasKey(x => x.Id);
         modelBuilder.Entity<OrderEntity>().HasIndex(x => x.ExternalId).IsUnique();
-        modelBuilder.Entity<OrderEntity>().HasOne(x => x.Admin)
-            .WithMany(x => x.Orders)
-            .HasForeignKey(x => x.AdminID);
         modelBuilder.Entity<OrderEntity>().HasOne(x => x.DishInOrder)
             .WithMany(x => x.Orders)
             .HasForeignKey(x => x.DishInOrderID);
